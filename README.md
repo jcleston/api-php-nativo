@@ -11,7 +11,7 @@
   </a>
 </p>
 
-# API PHP NATIVO
+# API PHP NATIVO COMPLETA
 API REST em PHP 7.4.x 🚀
 
 ## Menu Geral
@@ -25,9 +25,6 @@ API REST em PHP 7.4.x 🚀
   * [Contatos](#contatos)
 <!--te-->
 <br /><br />
-
-## Instalação
-Para iniciar o desenvolvimento, é necessário efetuar as seguintes configurações:
 
 
 ## Tecnologias
